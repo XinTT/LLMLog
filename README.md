@@ -6,7 +6,7 @@ Install all packages via:
 ```
 pip install -r requirements.txt
 ```
-The log-pai dataset can be found in <a href="https://github.com/logpai/logparser>
+The log-pai dataset can be found [here](https://github.com/logpai/logparser)
 
 The word embedding and log embedding can be generated via:
 ```
